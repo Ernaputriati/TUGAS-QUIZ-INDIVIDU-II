@@ -2,7 +2,7 @@
 
 1. Jelaskan arti angka dari versi python di bawah ini!!!
 
-![Screenshot (24)](https://user-images.githubusercontent.com/93031806/138679114-80770a39-ef85-4530-b2ed-0d16fb8a0325.png)
+![WhatsApp Image 2021-10-25 at 17 55 22 (2)](https://user-images.githubusercontent.com/93031806/138684129-5916e83c-bef0-4726-8c07-68883630e92d.jpeg)
 
 Jadi arti dari angka dalam download python 3.10.0 yaitu:
 
